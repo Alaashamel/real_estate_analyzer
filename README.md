@@ -109,7 +109,7 @@ MIT License - free to use/modify
 
 ## 👥 Author
 
-**Alaa Shamel** - Full-stack AI/ML Engineer
+**Alaa Shamel** - Full-stack - AI/ML Engineer
 
 ⭐ **Star the repo if useful!**
 
